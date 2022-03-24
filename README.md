@@ -12,7 +12,7 @@ Subdirectories:
 	files:
 		Benchmark files.  Total count=44.
 
-	files-pgbdd:
+	files-pgbddq:
 		A version of the benchmark files generated
 		for the PGBDDQ solver.  These include files
 		specifying the BDD variable ordering.
