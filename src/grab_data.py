@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 #####################################################################################
-# Copyright (c) 2021 Marijn Heule, Randal E. Bryant, Carnegie Mellon University
+# Copyright (c) 2022 Marijn Heule, Randal E. Bryant, Carnegie Mellon University
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 # associated documentation files (the "Software"), to deal in the Software without restriction,
