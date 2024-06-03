@@ -156,6 +156,7 @@ class QcnfWriter(Writer):
         if self.outfile is None:
             return
         self.show("p cnf %d %d" % (self.variableCount, self.clauseCount))
+        self.compressLevels()
         levels = sorted(self.quantifications.keys())
         if len(levels) > 0 and levels[0] == -1:
             # Move undesignated variables to innermost level
